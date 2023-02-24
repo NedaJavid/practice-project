@@ -1,2 +1,2 @@
-# Hello
-print ("Hello Neda")
+# Hello world
+print("Hello Neda")
